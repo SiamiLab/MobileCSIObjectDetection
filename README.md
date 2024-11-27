@@ -20,7 +20,7 @@ The Box in the middle is either filled or empty. The filled box is depicted in t
 
 <p align="center">
 <img src="resources/box_content.png" alt="box_content"
-title="box_content" width="820" align="middle" />
+title="box_content" width="750" align="middle" />
 </p>
 
 ## Examples
