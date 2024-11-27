@@ -24,5 +24,4 @@ title="box_content" width="750" align="middle" />
 </p>
 
 ## Examples
-You can find relavant examples to use this dataset in the `examples` directory.
-
+You can find relavant examples to use this dataset in the [`examples folder`](examples) directory.
