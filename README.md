@@ -1,7 +1,7 @@
 # Mobile WiFi CSI-Based Object Detection
 
 
-**The dataset will be published here after the acceptance of the paper**
+**The dataset can be found in the [`dataset`](dataset) directory.**
 
 
 
@@ -25,3 +25,24 @@ title="box_content" width="750" align="middle" />
 
 ## Examples
 You can find relavant examples to use this dataset in the [`examples`](examples) directory.
+
+
+## Our Paper
+If you use this dataset, code, or any descriptions from this repository, please cite our paper.
+
+```
+@article{TODO,
+  author = {Behzad, Kian and Mordad, Maral, Zandi, Rojin and Siami, Milad},
+  year = {TODO},
+  title = {TODO},
+  journal = {TODO},
+  pages = {TODO},
+  volume = {TODO},
+  number = {TODO},
+  doi = {TODO},
+}
+```
+
+
+## Acknowledgements
+We use [nexmon project](https://github.com/seemoo-lab/nexmon_csi) for extracting WiFi CSI information in our dataset.
